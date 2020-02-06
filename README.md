@@ -28,4 +28,4 @@ Crie uma aplicação para armazenar projetos e suas tarefas do zero utilizando [
 
 - `DELETE /projects/:id`: Deletar um projeto. [ WORKING ]
 
-- `POST /projects/:id/tasks`: Criar uma task dentro de um projeto existente. [ DEVELOPING ]
+- `POST /projects/:id/tasks`: Criar uma task dentro de um projeto existente. [ WORKING ]
